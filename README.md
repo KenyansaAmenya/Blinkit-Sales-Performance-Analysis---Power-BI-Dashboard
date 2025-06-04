@@ -140,6 +140,8 @@ Rating Consistency: Most items (95%) are rated 4.5-5.0, suggesting potential rat
 
 3. Hover over visuals for tooltips with granular metrics.
 
+Final project view (screenshot)
+![2025-06-04 20 11 53](https://github.com/user-attachments/assets/7029769e-4b92-4954-9cc5-3aa948c5ac08)
 
 1. Data Sources: Blinkit sales records, outlet metadata, customer ratings.
 2. Tools Used: Power BI, Power Query, DAX.
